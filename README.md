@@ -1,3 +1,5 @@
+
+  
 <a href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app/work/contact">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
@@ -20,7 +22,6 @@
 </a>
 
   </div>
-</div>
 </header>
 
 <br />
@@ -35,7 +36,6 @@
         <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=Zineb-Yousfi&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
       </a>
       <br /><br />
-    </div>
     <div>
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
