@@ -11,15 +11,13 @@
     <a href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Zineb-Yousfi.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
-    <a href="https://www.linkedin.com/in/zineb-y/" target="_blank" rel="noopener">
-  <img 
-    alt="My LinkedIn Profile"
-    src="https://img.shields.io/badge/LinkedIn-Zineb%20Yousfi-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2">
-</a>
-    <a href="https://www.linkedin.com/in/zineb-y-ia/">
-      <img alt="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-zineb-y-ia?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
+    <a href="https://www.linkedin.com/in/zineb-y-ia/" target="_blank" rel="noopener">
+<img 
+  alt="My LinkedIn Profile"
+    src="https://img.shields.io/badge/LinkedIn-Zineb%20Yousfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155">
       
-    </a>
+</a>
+
   </div>
 </header>
 
