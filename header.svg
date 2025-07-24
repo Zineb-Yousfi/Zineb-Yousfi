@@ -3,7 +3,7 @@
   
  <!-- Left-Aligned Text Vertically Centered -->
   <text x="100" y="452" font-size="80" font-family="Arial, sans-serif" font-weight="600" fill="#E2E8F0">
-    I’m <tspan fill="#3B82F6">Zineb Yousfi</tspan>
+    I’m <tspan fill="#3B82F6">Zineb </tspan>Yousfi
   </text>
 
   <text x="100" y="542" font-size="40" font-family="Arial, sans-serif" fill="#CBD5E1">
