@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/zineb-y-ia/" target="_blank" rel="noopener">
 <img 
   alt="My LinkedIn Profile"
-    src="https://img.shields.io/badge/LinkedIn-Zineb%20Yousfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155">
+    src="https://img.shields.io/badge/LinkedIn-Zineb%20Yousfi-0A66C2?style=for-the-badge=flat&logo=linkedin&logoColor=white&labelColor=334155">
       
 </a>
 
