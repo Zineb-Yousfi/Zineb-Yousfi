@@ -29,9 +29,9 @@
   <summary><h2>📊 Statistics</h2></summary>
   <div>
     <br />
-    <div>
+    <div align="center">
       <a href="https://github.com/Zineb-Yousfi">
-        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=Zineb-Yousfi&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
+          <img src="https://komarev.com/ghpvc/?username=Zineb-Yousfi&style=for-the-badge" alt="Profile Views Badge"/>
       </a>
       <br /><br />
     <div>
@@ -49,7 +49,9 @@
     </div>
   </div>
 </details>
-## 🐍 My Contributions
+
+
+🐍 My Contributions
 
 <div align="center">
   <picture>
