@@ -1,5 +1,3 @@
-
-  
 <a href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app/work/contact">
   <picture>
     <!--source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg"-->
@@ -38,27 +36,16 @@
       <br /><br />
     <div>
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Zineb-Yousfi&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Zineb-Yousfi&count_private=true" />
-          <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Zineb-Yousfi&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
-        </picture>
+         <img width=325 src="htttps://github-readme-stats.vercel.app/api/top-langs?username=zineb-yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Zineb-Yousfi's Most Used Languages" />
       </a>
       <br /><br />
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Zineb-Yousfi&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Zineb-Yousfi's GitHub Stats" />
       </a>
+      <br /><br />
+ <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
+        <img widh=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zineb-Yousfi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zineb-Yousfi's" />
+        </a>
     </div>
   </div>
 </details>
-
-<br>
-
-<div align=center>
- 
-  <img widh=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zineb-Yousfi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zineb-Yousfi's" />
-  <img width=325 src="htttps://github-readme-stats.vercel.app/api/top-langs?username=zineb-yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Zineb-Yousfi's Most Used Languages" />
-  
-</div>
-
-<hr>
