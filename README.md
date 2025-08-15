@@ -52,9 +52,9 @@ Here are some ideas to get you started:
       </div>
     <div>
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
-             <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Zineb-Yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Zineb-Yousfi's Most Used Languages" />  
+             <img width=325 src="https://github-readme-statistics-pearl.vercel.app/api/top-langs?username=Zineb-Yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true" alt="Zineb-Yousfi's Most Used Languages" />  
       <br /><br />
-         <img width=390 src="https://github-readme-stats.vercel.app/api?username=Zineb-Yousfi&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Zineb-Yousfi's GitHub Stats" />
+         <img width=390 src="https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-Yousfi&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Zineb-Yousfi's GitHub Stats" />
       <br /><br />
         <img widh=390 src="https://streak-stats.demolab.com?user=Zineb-Yousfi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zineb-Yousfi's" />
        </a>
