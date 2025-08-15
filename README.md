@@ -1,6 +1,5 @@
 <a href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app/work/contact">
   <picture>
-    <!--source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg"-->
     <source  srcset="./header.svg" />
     <img alt="Zineb Yousfi | Freelancer · Software Engineer 🤖 · Full-Stack Developer 💻 " src="./header.svg" width="100%" />
   </picture>
@@ -25,8 +24,8 @@
 <br />
 <br />
 
-<details>
-  <summary><h2>📊 Statistics</h2></summary>
+
+📊 Statistics
   <div>
     <br />
     <div align="center">
@@ -49,7 +48,7 @@
         </a>
     </div>
   </div>
-</details>
+
 
 🐍 My Contributions
 
@@ -61,4 +60,4 @@
   </picture>
 </div>
 
-<hr>
+
