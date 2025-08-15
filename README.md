@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       </a>
       <br /><br />
        <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img widh=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zineb-Yousfi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zineb-Yousfi's" />
+        <img widh=390 src="https://streak-stats.demolab.com?user=Zineb-Yousfi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zineb-Yousfi's" />
         </a>
     </div>
   </div>
