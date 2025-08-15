@@ -1,4 +1,3 @@
-
 <!--
 **Zineb-Yousfi/Zineb-Yousfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,8 +39,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
 📊 Statistics
+
   <div>
     <br />
     <div align="center">
@@ -65,8 +64,6 @@ Here are some ideas to get you started:
     </div>
   </div>
 
-
-
 🐍 My Contributions
 
 <div align="center">
@@ -76,5 +73,3 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="https://raw.githubusercontent.com/Zineb-Yousfi/Zineb-Yousfi/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-
