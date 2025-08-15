@@ -36,7 +36,7 @@
       <br /><br />
     <div>
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
-         <img width=325 src="htttps://github-readme-stats.vercel.app/api/top-langs?username=Zineb-Yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Zineb-Yousfi's Most Used Languages" />
+             <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Zineb-Yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Zineb-Yousfi's Most Used Languages" />
       </a>
       <br /><br />
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
