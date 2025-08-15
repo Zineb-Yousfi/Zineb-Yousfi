@@ -1,19 +1,26 @@
+
+  
 <a href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app/work/contact">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
+    <!--source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg"-->
+    <source  srcset="./header.svg" />
     <img alt="Zineb Yousfi | Freelancer · Software Engineer 🤖 · Full-Stack Developer 💻 " src="./header.svg" width="100%" />
   </picture>
 </a>
 
 <header>
-  <div align="center">
+<div>
+    <div align="center">
     <a href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Zineb-Yousfi.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
-    <a href="https://www.linkedin.com/in/zineb-y-ia/">
-      <img alt="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-zineb-y-ia?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
-    </a>
+    <a href="https://www.linkedin.com/in/zineb-y-ia/" target="_blank" rel="noopener">
+<img 
+  alt="My LinkedIn Profile"
+    src="https://img.shields.io/badge/LinkedIn-Zineb%20Yousfi-0A66C2?style=for-the-badge=flat&logo=linkedin&logoColor=white&labelColor=334155">
+      
+</a>
+
   </div>
 </header>
 
@@ -29,7 +36,6 @@
         <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=Zineb-Yousfi&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
       </a>
       <br /><br />
-    </div>
     <div>
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
