@@ -13,4 +13,23 @@
   <text x="100" y="700" font-size="50" font-family="Arial, sans-serif" font-weight="bold" fill="#CBD5E1">
     AVAILABLE FOR HIRE
   </text>
+  
+       <a xlink:href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app" target="_blank">
+    <image
+      x="120"
+      y="780"
+      width="250"
+      height="28"
+      xlink:href="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Zineb-Yousfi.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155"
+    />
+  </a>
+         <a xlink:href="https://www.linkedin.com/in/zineb-y-ia/" target="_blank">
+    <image
+      x="350"
+      y="780"
+      width="250"
+      height="28"
+      xlink:href=https://img.shields.io/badge/LinkedIn-Zineb%20Yousfi-0A66C2?style=for-the-badge=flat&logo=linkedin&logoColor=white&labelColor=334155"
+    />
+  </a>
 </svg>
