@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       </div>
     <div>
       <a href="https://github.com/Zineb-Yousfi?tab=repositories&q=&type=&language=&sort=stargazers">
-             <img width=325 src="https://github-readme-statistics-pearl.vercel.app/api/top-langs?username=Zineb-Yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true" alt="Zineb-Yousfi's Most Used Languages" />  
+             <img width=325 src="https://github-readme-statistics-pearl.vercel.app/api/top-langs?username=Zineb-Yousfi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&cache_seconds=1" alt="Zineb-Yousfi's Most Used Languages" />  
       <br /><br />
          <img width=390 src="https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-Yousfi&theme=transparent&show_icons=true&rank_icon=github&locale=en&count_private=true&cache_seconds=1" alt="Zineb-Yousfi's GitHub Stats" />
       <br /><br />
@@ -73,4 +73,3 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="https://raw.githubusercontent.com/Zineb-Yousfi/Zineb-Yousfi/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
