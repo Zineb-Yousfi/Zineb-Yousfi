@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-<header>
+<!--header>
 <div>
     <div align="center">
     <a href="https://portfolio-nextjs-zineb-yousfi-dev.vercel.app">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </a>
 
   </div>
-</header>
+</header-->
 
 <br />
 <br />
