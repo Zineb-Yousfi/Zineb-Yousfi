@@ -56,7 +56,7 @@ Here are some ideas to get you started:
       <br /><br />
          <img width=390 src="https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-Yousfi&theme=transparent&show_icons=true&rank_icon=github&locale=en&count_private=true&cache_seconds=1" alt="Zineb-Yousfi's GitHub Stats" />
       <br /><br />
-        <img widh=390 src="https://streak-stats.demolab.com?user=Zineb-Yousfi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zineb-Yousfi's" />
+        <img widh=390 src="https://streak-stats.demolab.com?user=Zineb-Yousfi&theme=transparent&count_private=true&border_radius=10&locale=en&cache_seconds=1" alt="Zineb-Yousfi's" />
        </a>
     </div>
   </div>
